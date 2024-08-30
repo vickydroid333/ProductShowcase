@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sky Blue Colors -->
+    <color name="sky_blue">#87CEEB</color>
+    <color name="sky_blue_dark">#4682B4</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color> <!-- White -->
+    <color name="text_secondary">#D3D3D3</color> <!-- Light Gray -->
+
+    <!-- Background Colors -->
+    <color name="background">#000000</color> <!-- Black Background -->
+
+    <!-- Additional Colors -->
+    <color name="error_color">#FF6F6F</color> <!-- Error Color -->
+    <color name="divider_color">#1C1C1C</color> <!-- Divider Color -->
+</resources>
